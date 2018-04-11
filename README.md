@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ana
 
 Ana is a store app written in native PHP and MySQL to help you learn the basics of web development. Learn the primitive way to implement of CRUD: Create, Read, Update and Delete.
@@ -14,3 +15,7 @@ Ana is a store app written in native PHP and MySQL to help you learn the basics 
 * Import `database.sql` to that new database
 * Serve and enjoy! I suggest you use XAMPP to host your app locally.
 
+=======
+# class-apache
+Debian php Crud lamp
+>>>>>>> b6d19b01d4820721e591444d053b2de0137d793f
